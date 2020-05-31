@@ -34,6 +34,7 @@ pip install -r requirement.txt
 - [ ] 無提供檔名修改功能
 - [ ] 未進行防呆措施
 
+------
 
 簡易介面如下：
 
