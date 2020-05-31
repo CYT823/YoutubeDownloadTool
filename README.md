@@ -1,4 +1,4 @@
-### Youtube Download Tool 只是一個簡單的下載工具
+### Youtube Download Tool 只是一個簡單(簡陋)的下載工具
 
 空閒的時候做的一個小工具
 
@@ -8,23 +8,28 @@
 
 所以才想自己做一個
 
+
 > 使用語言：Python
 
 > 使用套件：pytube3 && moviepy
 
 Before you use it,
-
 you may need to install these two packages `pytube3` and `moviepy`.
 
-or you can try this below↓
+or you can try this below：
 
 ```
 pip install -r requirement.txt
 ```
 
-功能包含:
-- [x] This is a complete item
-- [ ] This is an incomplete item
+功能:
+- [x] 下載影像
+- [x] 下載音訊
+- [x] 影像、音訊合併
+- [x] 建議的訊息提示框
+- [ ] 有些影片無法下載(不確定是不是官方帳號)
+- [ ] 無提供檔名修改功能
+
 
 簡易介面如下：
 ![image](https://github.com/CYT823/YoutubeDownloadTool/blob/master/image/screenshot.png)
